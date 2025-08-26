@@ -31,5 +31,7 @@ Je tiens à remercier **OpenClassrooms** 🎓 pour leur cours sur **Bootstrap**,
 ## 👤 Auteur
 
 Nom : Rajaa Mahroug
+
 GitHub : https://github.com/rajaagl
+
 LinkedIn : https://www.linkedin.com/in/rajaa-mahroug-7b7916344# portfolio-rajaa
